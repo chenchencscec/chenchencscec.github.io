@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "zh-cn"
-title                    : "郑晨个人主页 Dr.ZHENG/Homepage"
+title                    : "Dr.ZHENG/Homepage"
 title_separator          : "-"
-name                     : &name "郑晨 CHEN ZHENG"
+name                     : &name "CHEN ZHENG"
 description              : &description "personal description"
 url                      : https://chenchencscec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   name             : "ZHENG CHEN"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "天津，Tianjin"
-  employer         : "Red Brick University"
+  location         : "Tianjin,China"
+  employer         : "CCSED"
   uri              : # URL
   email            : "zhengchen01@cscec.com" 
 
