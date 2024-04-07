@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-cn"
+locale                   : "en-us"
 title                    : "Dr.ZHENG/Homepage"
 title_separator          : "-"
 name                     : &name "CHEN ZHENG"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tianjin,China"
-  employer         : "CCSED"
+  employer         : "TC-CCSED"
   uri              : # URL
   email            : "zhengchen01@cscec.com" 
 
