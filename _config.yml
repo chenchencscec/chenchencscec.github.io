@@ -10,7 +10,7 @@
 locale                   : "zh-cn"
 title                    : "郑晨个人主页 Dr.ZHENG/Homepage"
 title_separator          : "-"
-name                     : &name "CHEN ZHENG"
+name                     : &name "郑晨 CHEN ZHENG"
 description              : &description "personal description"
 url                      : https://chenchencscec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
