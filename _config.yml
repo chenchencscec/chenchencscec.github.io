@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "zh-cn"
-title                    : "郑晨个人主页"
+title                    : "郑晨个人主页
+Dr"
 title_separator          : "-"
 name                     : &name "CHEN ZHENG"
 description              : &description "personal description"
@@ -22,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "一寸照片.png"
-  name             : "ZHENG"
+  name             : "ZHENG CHEN"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tianjin"
