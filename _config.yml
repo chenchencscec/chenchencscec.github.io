@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "CN"
+locale                   : "cn"
 title                    : "ZHENG CHEN"
 title_separator          : "-"
 name                     : &name "Your Name"
