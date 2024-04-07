@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-cn"
-title                    : "Dr.ZHENG/Personal homepage
-郑晨个人主页"
+title                    : "郑晨个人主页"
 title_separator          : "-"
 name                     : &name "CHEN ZHENG"
 description              : &description "personal description"
