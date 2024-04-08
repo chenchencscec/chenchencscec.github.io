@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+郑晨，中国建筑第六工程局技术中心高级经理，岩土工程师。研究领域：深基坑工程；桩基-土相互作用；地下工程设计建造技术与安全
 I'm a senior manager from [Department of Technical center, CCSED](https://6bur.cscec.com/xwzx2/gskx2/202112/3454378.html), [CSCEC](https://en.cscec.com/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
