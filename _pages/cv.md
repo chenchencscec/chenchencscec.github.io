@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* 博士毕业于交通与港口学院，马德里理工大学，2023
-  Ph.D in Version Control Theory, GitHub University, 2023
+* 博士毕业于交通与港口学院，马德里理工大学，2023  Ph.D in Version Control Theory, GitHub University, 2023
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
