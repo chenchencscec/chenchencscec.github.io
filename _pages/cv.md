@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景<br>Education
 ======
-* 博士毕业于交通与港口学院，马德里理工大学，2023 <br>Ph.D in Version Control Theory, GitHub University, 2023
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 博士毕业于交通与港口学院，马德里理工大学，2022 <br>Ph.D in Caminos, UPM, SPAIN, 2022
+* 硕士毕业于矿业工程学院，太原理工大学，2017 <br> M.S. in College of Mining Engineering, Taiyuan University of Technology, 2014
+* 本科毕业于矿业工程学院，太原理工大学，2014 <br>B.S. in College of Mining Engineering, Taiyuan University of Technology, 2014
+
 
 Work experience
 ======
