@@ -16,22 +16,12 @@ redirect_from:
 * 本科毕业于矿业工程学院，太原理工大学，2014 <br>B.S. in College of Mining Engineering, Taiyuan University of Technology, 2014
 
 
-Work experience
+工作经历<br>Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022年8月-今：中国建筑第六工程局有限公司，工程技术研究院，工程师 <br> August 2024-Now: TC-CCSED, Engineer
+  * 地下工程技术研发
+  * 重大工程项目支持
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
