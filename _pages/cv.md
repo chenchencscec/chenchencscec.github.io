@@ -23,14 +23,14 @@ redirect_from:
   * 重大工程项目支持
 
   
-Skills
+工作技能<br>Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB
+* 数值模拟软件
+  * Plaxis 2D
+  * Phase2 Roc
+  * Midas gts
+* 理正深基坑
 
 Publications
 ======
