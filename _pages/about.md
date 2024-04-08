@@ -16,5 +16,5 @@ Publications: Authored over ten papers in esteemed journals including 《Enginee
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[邮箱](mailto:zheng_chen1991@163.com) / [电话](https://github.com/QiuDi233) / [微信](../images/Wechat.jpg) / [QQ](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[邮箱](mailto:zheng_chen1991@163.com) / [电话](../images/电话.png) / [微信](../images/Wechat.jpg) / [QQ](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 ————————————————
