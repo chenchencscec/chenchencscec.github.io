@@ -4,7 +4,7 @@ Journal: International Journal of Coal Geology
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2018-12-22
-venue: 'International Journal of Coal Geology'
+venue: 'International Journal of Coal Geology (Q1)'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0166516218305500'
 citation: 'WANG CL, ZHAMG CS, LI Y, ZHENG C. Numerical investigation of the mechanical properties of coal masses with T-junctions cleat networks under uniaxial compression[J]. International Journal of Coal Geology, 2018, 202(2019): 128-146.'
 ---
