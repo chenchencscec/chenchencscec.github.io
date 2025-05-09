@@ -1,1 +1,13 @@
+---
+title: "Analytical prediction for ground movements due to deep excavations in soils"
+collection: publications
+permalink: /publication/10
+excerpt: 'This paper is about fixing template issue #693.'
+date: 2023-7-6
+venue: 'Tunnelling and Underground Space Technology(Q1)'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S088677982300336X'
+citation: 'Zheng C, Franza A, JIMENEZ R. Analytical prediction for ground movements due to deep excavations in soils[J]. Tunnelling and Underground Space Technology, 2023, 141: 105316. '
+---
 
+ABSTRACT:
+This paper presents an analytical method to estimate surface and subsurface soil movements induced by deep excavations in the vertical and horizontal directions. Elastic and elastoplastic closed-form solutions for ground losses in the half-space are adopted, using the superposition method, to consider convergence and ovalization processes that occur within the soil mass due to displacements of the retaining wall; inputs include the shape and magnitude of the wall displacement profile to be selected based on design charts, monitoring data, or allowable level of resulting ground deformations. A parametric analysis illustrates (i) the effects on greenfield soil movements of the retaining wall’s deformation modes (cantilever, parabolic, composite, or kick-in), (ii) the influence of its displacement level, and (iii) the influence of aspects such as the soil’s ovalization and volumetric behaviour. Predictions of the proposed method are compared with empirical criteria, field data, and centrifuge results from the literature compiled for braced excavations in clays and sands. This comparison shows that the analytical approach provides reasonable predictions of excavation-induced soil deformations both at surface and subsurface levels, except for high normalized wall deflections when the analytical ground displacement field is wider and its maximum movements underestimate measured values. Finally, from the back-analyses of real data, a design guideline is suggested to select the relative ovalization depending on ground conditions and wall deflection mode.
